@@ -77,7 +77,7 @@ const HomeSection = () => {
           }`}
         >
           <Avatar className="h-64 w-64 md:h-80 md:w-80 border-4 border-soft-blue shadow-lg hover:scale-105 transition-transform duration-300">
-            <AvatarImage src="./assets/me.jpg" alt="Shreya Chaturvedi" />
+            <AvatarImage src="/me.jpg" alt="Shreya Chaturvedi" />
             <AvatarFallback>SC</AvatarFallback>
           </Avatar>
         </div>
